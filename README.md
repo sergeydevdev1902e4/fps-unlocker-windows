@@ -46,4 +46,4 @@ To run it in the background while playing, keeping the frame rate unlocked acros
 python fps_unlocker.py --fps 165 --loop
 ```
 
-<!-- checked: 2026-09-13 -->
+<!-- checked: 2026-09-14 -->
